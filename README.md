@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KatyaaC/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/KatyaaC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KatyaaC/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyaaC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -14,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/KatyaaC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KatyaaC/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyaaC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KatyaaC/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/KatyaaC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyaaC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
