@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KatyaaC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/KatyaaC/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
