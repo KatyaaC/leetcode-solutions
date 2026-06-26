@@ -36,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/KatyaaC/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0610-triangle-judgement](https://github.com/KatyaaC/leetcode-solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
