@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KatyaaC/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KatyaaC/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/KatyaaC/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/KatyaaC/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KatyaaC/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/KatyaaC/leetcode-solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KatyaaC/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
